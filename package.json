@@ -19,6 +19,9 @@
     "url": "https://github.com/devnu1l/react-for-beginners/issues"
   },
   "homepage": "https://github.com/devnu1l/react-for-beginners#readme",
+  "engines": {
+    "node": ">6.11"
+  },
   "dependencies": {
     "babel-loader": "^7.1.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
